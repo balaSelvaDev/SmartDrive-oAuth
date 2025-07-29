@@ -1,4 +1,4 @@
-package com.phegondev.auth2Peoject.model;
+package com.phegondev.auth2Peoject.DTO;
 
 import com.phegondev.auth2Peoject.enums.AuthProvider;
 

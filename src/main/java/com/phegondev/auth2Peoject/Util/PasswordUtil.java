@@ -1,7 +1,6 @@
 package com.phegondev.auth2Peoject.Util;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
-import org.springframework.stereotype.Component;
 
 
 public class PasswordUtil {
